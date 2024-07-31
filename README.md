@@ -67,9 +67,18 @@ To set up and run this project locally, follow these steps:
 Here are some screenshots of the Flight App:
 
 <p align="center">
-    <img src="suites/custom_output_dir/homepage.png" alt="Home Page" width="200"/>
-    <img src="suites/custom_output_dir/bookpage.png" alt="Booking Page" width="200"/>
-    <img src="suites/custom_output_dir/searchpage.png" alt="Search Page" width="200"/>
+    <figure style="display: inline-block; margin: 10px;">
+        <img src="suites/custom_output_dir/homepage.png" alt="Home Page" width="200"/>
+        <figcaption>Home Page</figcaption>
+    </figure>
+    <figure style="display: inline-block; margin: 10px;">
+        <img src="suites/custom_output_dir/bookpage.png" alt="Booking Page" width="200"/>
+        <figcaption>Booking Page</figcaption>
+    </figure>
+    <figure style="display: inline-block; margin: 10px;">
+        <img src="suites/custom_output_dir/searchpage.png" alt="Search Page" width="200"/>
+        <figcaption>Search Page</figcaption>
+    </figure>
 </p>
 
 ## Acknowledgements
