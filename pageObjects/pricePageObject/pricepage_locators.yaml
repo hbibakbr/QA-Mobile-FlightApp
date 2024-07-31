@@ -1,0 +1,4 @@
+title_pricepage: '//android.widget.TextView[@resource-id="com.example.myapplication:id/textView6"]'
+confirm_button_pricepage: '//android.widget.Button[@resource-id="com.example.myapplication:id/confirm_order"]'
+price_example_pricepage: '//android.widget.Button[@resource-id="com.example.myapplication:id/price1"]'
+success_booking_pricepage: '//android.widget.CheckedTextView[@resource-id="com.example.myapplication:id/checkedTextView"]'

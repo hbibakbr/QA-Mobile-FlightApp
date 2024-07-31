@@ -1,0 +1,12 @@
+oneway_type_bookpage: '//android.support.v7.app.ActionBar.Tab[@content-desc="One Way"]'
+roundtrip_type_bookpage: '//android.support.v7.app.ActionBar.Tab[@content-desc="Round Trip"]'
+hometown_city_bookpage: '//android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerFrom"]'
+destination_city_bookpage: '//android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerTo"]'
+class_bookpage: '//android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerClass"]'
+start_date_bookpage : '//android.widget.TextView[@resource-id="com.example.myapplication:id/textStartDate"]'
+end_date_bookpage: '//android.widget.TextView[@resource-id="com.example.myapplication:id/textEndDate"]'
+flight_type_bookpage: '//android.widget.RadioButton[@resource-id="com.example.myapplication:id/radioButtonFlight"]'
+flight_hotel_type_bookpage: '//android.widget.RadioButton[@resource-id="com.example.myapplication:id/radioButtonFlightHotel"]'
+checkbox_day_bookpage: '//android.widget.CheckBox[@resource-id="com.example.myapplication:id/checkBoxDay"]'
+book_button_bookpage: '//android.widget.Button[@resource-id="com.example.myapplication:id/book_flight"]'
+
