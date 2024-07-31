@@ -66,20 +66,10 @@ To set up and run this project locally, follow these steps:
 ## Application Screenshots
 Here are some screenshots of the Flight App:
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <div style="text-align: center;">
-        <img src="suites/custom_output_dir/homepage.png" alt="Home Page" width="200"/>
-        <p>Home Page</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="suites/custom_output_dir/bookpage.png" alt="Booking Page" width="200"/>
-        <p>Booking Page</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="suites/custom_output_dir/searchpage.png" alt="Search Page" width="200"/>
-        <p>Search Page</p>
-    </div>
-</div>
+| Home Page           | Booking Page        | Search Page         |
+|---------------------|----------------------|----------------------|
+| ![Home Page](suites/custom_output_dir/homepage.png) | ![Booking Page](suites/custom_output_dir/bookpage.png) | ![Search Page](suites/custom_output_dir/searchpage.png) |
+| Home Page           | Booking Page         | Search Page          |
 
 ## Acknowledgements
 A huge thanks to the amazing Robot Framework and Appium communities for providing great tools for testing. Special thanks to Qase.io for their test management tools.
