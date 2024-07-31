@@ -1,2 +1,2 @@
 # Mobile Automation With Robot Framework - Flight App
-Repository for Learning Software Quality Assurance
+Repository for Learning Software Quality Assurance Mobile Automation
