@@ -83,7 +83,7 @@ Here are some screenshots of the Flight App:
 
 | Home Page           | Booking Page        | Search Page         |
 |---------------------|----------------------|----------------------|
-| ![Home Page](suites/custom_output_dir/homepage.png) | ![Booking Page](suites/custom_output_dir/bookpage.png) | ![Search Page](suites/custom_output_dir/searchpage.png) |
+| ![Home Page](suites/screenshoot/homepage.png) | ![Booking Page](suites/screenshoot/bookpage.png) | ![Search Page](suites/screenshoot/searchpage.png) |
 | Home Page           | Booking Page         | Search Page          |
 
 ## Acknowledgements
