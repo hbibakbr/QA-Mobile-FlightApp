@@ -1,7 +1,7 @@
 # Mobile Automation With Appium and Robot Framework - FlightApp
 Repository for Learning Mobile Automation Testing
 
-This is a mobile testing automation project built using the [**Robot Framework**](https://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html#Start%20Screen%20Recording) and **Appium**.
+This is a mobile testing automation project built using the [**Robot Framework**](https://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html#Start%20Screen%20Recording) and [**Appium**](https://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html#Start%20Screen%20Recording).
 
 <p align="center">
     <img src="suites/screenshoot/robotframework.png" alt="Robot Framework" width="200" style="margin-left: 10px;" >
