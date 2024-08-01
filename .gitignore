@@ -1,0 +1,4 @@
+# Ignore specific Robot Framework output files
+log.html
+output.xml
+report.html
