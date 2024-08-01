@@ -1,12 +1,12 @@
-# Mobile Automation With Appium and Robot Framework - Flight Application
+# Mobile Automation With Appium and Robot Framework - FlightApp
 Repository for Learning Mobile Automation Testing
 
 This is a mobile testing automation project built using the **Robot Framework** and **Appium**.
 
 ## Overview
-The application being tested is a testing app called Flight App, designed solely for practicing mobile automation testing. It includes 3 features: Login, Booking, and Searching Booking ID.
+The application being tested is a testing app called Flight Application, designed solely for practicing mobile automation testing. It includes 3 features: Login, Book, and Search.
 
-## Features Suites Test Cases
+## Features Suites and Test Cases
 ### Suites
 1. **loginSuite.robot**
    - User should be able to login with valid credentials
@@ -19,7 +19,7 @@ The application being tested is a testing app called Flight App, designed solely
 
 ## Test Cases Documentation
 All test cases have been created and documented in Qase.io. These test cases cover:
-- Login Testing
+- Login Functionality Testing
 - Book Functionality Testing
 - Search Functionality Testing
 
@@ -50,15 +50,29 @@ To set up and run this project locally, follow these steps:
     ```
 
 5. **Set up Android Emulator:**
+    - Install [JDK](https://www.oracle.com/java/technologies/downloads/)
     - Install [Android Studio](https://developer.android.com/studio)
     - Create and start an Android Virtual Device (AVD) from the AVD Manager in Android Studio
 
-6. **Start the Appium server:**
-    ```bash
-    appium
-    ```
+6. **Set Up Appium Server**
+    - Instal [Appium Server](https://github.com/appium/appium-desktop/releases)
+    - Start Appium Server
 
-7. **Run the tests:**
+7. **Set Up Appium Inspector**
+    - Instal [Appium Inspector](https://github.com/appium/appium-inspector)
+    - Configure Capability Builder
+    ```bash
+    {
+        "platformName": "Android",
+        "appium:platformVersion": "9.0",
+        "appium:deviceName": "Pixel 4 XL API",
+        "appium:appPackage": "com.example.myapplication",
+        "appium:appActivity": "com.example.myapplication.MainActivity"
+    }
+    ```
+    - Start Session
+
+8. **Run the tests:**
     ```bash
     robot -d results loginSuite.robot
     ```
