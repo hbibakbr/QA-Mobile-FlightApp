@@ -1,7 +1,12 @@
 # Mobile Automation With Appium and Robot Framework - FlightApp
 Repository for Learning Mobile Automation Testing
 
-This is a mobile testing automation project built using the **Robot Framework** and **Appium**.
+This is a mobile testing automation project built using the [**Robot Framework**](https://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html#Start%20Screen%20Recording) and **Appium**.
+
+<p align="center">
+    <img src="suites/screenshoot/appium.png" alt="Appium" width="100"/>
+    <img src="suites/screenshoot/robotframework.png" alt="Robot Framework" width="100"/>
+</p>
 
 ## Overview
 The application being tested is a testing app called Flight Application, designed solely for practicing mobile automation testing. It includes 3 features: Login, Book, and Search.
