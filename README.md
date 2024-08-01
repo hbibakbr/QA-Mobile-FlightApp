@@ -4,8 +4,8 @@ Repository for Learning Mobile Automation Testing
 This is a mobile testing automation project built using the [**Robot Framework**](https://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html#Start%20Screen%20Recording) and **Appium**.
 
 <p align="center">
-    <img src="suites/screenshoot/Appium-2.png" alt="Appium" width="200" style="margin-right: 10px;" />
-    <img src="suites/screenshoot/robotframework.png" alt="Robot Framework" width="200" style="margin-left: 10px;" />
+    <img src="suites/screenshoot/robotframework.png" alt="Robot Framework" width="200" style="margin-left: 10px;" >
+    <img src="suites/screenshoot/Appium-2.png" alt="Appium" width="300" style="margin-right: 10px;" />
 </p>
 
 ## Overview
